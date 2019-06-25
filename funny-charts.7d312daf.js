@@ -9,4 +9,4 @@ var t,e=arguments[3];!function(e,i){"object"==typeof exports&&"undefined"!=typeo
 },{"moment":"iROh"}],"Focm":[function(require,module,exports) {
 "use strict";var e=t(require("chart.js"));function t(e){return e&&e.__esModule?e:{default:e}}var i={labels:["3","4","5","6","7","8","9","10","11","12","13"],datasets:[{label:"",borderColor:"red",backgroundColor:"red",fill:!1,data:[2,3,5,8,13,21,34,55,89,144,233],borderWidth:6,yAxisID:"y-axis-1"}]};window.onload=function(){var t=document.getElementById("myChart").getContext("2d");t.height=500,window.myLine=e.default.Line(t,{data:i,options:{maintainAspectRatio:!1,legend:{display:!1},responsive:!0,hoverMode:"index",stacked:!1,title:{display:!1,text:"Chart.js Line Chart - Multi Axis"},scales:{yAxes:[{ticks:{display:!1},type:"linear",display:!0,position:"left",id:"y-axis-1",scaleLabel:{display:!0,labelString:"Profit",fontSize:"30",fontColor:"black"}}],xAxes:[{ticks:{display:!1},scaleLabel:{display:!0,labelString:"Number of code lines",fontSize:"30",fontColor:"black"}}]}}})};
 },{"chart.js":"IvHv"}]},{},["Focm"], null)
-//# sourceMappingURL=/funny-charts.7d312daf.js.map
+//# sourceMappingURL=funny-charts.7d312daf.js.map
