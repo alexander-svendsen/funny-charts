@@ -1,4 +1,6 @@
-# funny-charts
+# Funny-Charts
+
+https://alexander-svendsen.github.io/funny-charts/
 
 ## Setup
 
