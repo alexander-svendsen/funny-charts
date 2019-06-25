@@ -1,0 +1,11 @@
+# node
+node_modules/
+
+# idea
+*.iml
+.idea/
+
+
+# built files
+/dist
+.cache/
